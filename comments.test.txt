@@ -1,3 +1,7 @@
 // JEST OBS.
 
 SUT = SYSTEM ANDERS TEST - Saber qual classe está testando
+
+// Expect
+toBe = Valores Identicos de Resposta e Expecte
+toEqual = Valores esperado de um retorno incomum
